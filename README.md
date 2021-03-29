@@ -2,7 +2,8 @@
 # Kunju_Music_Bot [ Pytgcalls ]
 
 Kunju Musi Bot To Play Music With Pytgcalls From Various Soure in your groups.
-<https://ibb.co/StbShwC.png" width="530" height="400">
+
+IMAGE NOT AVAILABLE NOW.
 
 
 # Support
@@ -69,7 +70,7 @@ Command | Description
 
 ## Note
 
-1. If you want any help you can ask [here](https://t.me/PatheticProgrammers)
+1. If you want any help you can ask [here](https://t.me/DARK_TELEGRAMER)
 
 ## Credits
 1. @DARK_TELEGRAMER  [For TgCalls]
