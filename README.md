@@ -2,7 +2,7 @@
 - 👀 I’m interested in learning programming, Listening Music , Football ,Cricket , Story writing , web searching , eating , travelling 😁
 - 🌱 I’m currently learning nothing😂
 - 💞️ I’m looking to collaborate on my life😉
-- 📫 reach me in telegram https;/t.me/DARK_TELEGRAMER 
+- 📫 reach me in telegram https:/t.me/DARK_TELEGRAMER 
 - 😐 Edited this readme with the help of github
 - 😺 Call me Cat
 - 😋 Instagram @hypercat_ext do follow 😂
@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-- ☺ too good is ,not see my readme
+- ☺ Cannot text with me
 
