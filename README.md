@@ -1,9 +1,8 @@
 
-# Telegram Voice-Chat Bot [ Pytgcalls ]
+# Kunju_Music_Bot [ Pytgcalls ]
 
-Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In Your Group.
-
-<img src="https://i.imgur.com/8S8NVy0.png" width="530" height="400">
+Kunju Musi Bot To Play Music With Pytgcalls From Various Soure in your groups.
+<https://ibb.co/StbShwC.png" width="530" height="400">
 
 
 # Support
@@ -23,7 +22,7 @@ Telegram Voice-Chat Bot To Play Music With Pytgcalls From Various Sources In You
 Follow this if you are not running on heroku
 
 sh
-$ git clone https://github.com/thehamkercat/Telegram_VC_Bot
+$ git clone https://github.com/abhijithsudhakaran2003/Kunju_Music_Bot
 $ cd Telegram_VC_Bot
 $ pip3 install -U pip
 $ pip3 install -U -r requirements.txt
@@ -39,7 +38,7 @@ $ python3 main.py
 
 #### Generate String session [IMPORTANT]
 
-Download this file [generate_string_session.py](https://raw.githubusercontent.com/thehamkercat/Telegram_VC_Bot/master/generate_string_session.py)
+Download this file [generate_string_session.py](https://raw.githubusercontent.com/abhijithsudhakaran2003/Kunju_Music_Bot/master/generate_string_session.py)
 
 
 sh
@@ -51,7 +50,7 @@ You will get a session string, copy it, Then use heroku commands to push to hero
 
 
 
-Send [commads](https://github.com/thehamkercat/Telegram_VC_Bot/blob/master/README.md#commands) to bot to 
+Send [commads](https://github.com/abhijithsudhakaran2003/Kunju_Music_Bot/blob/master/README.md#commands) to bot to 
 play music.
 
 
@@ -73,4 +72,4 @@ Command | Description
 1. If you want any help you can ask [here](https://t.me/PatheticProgrammers)
 
 ## Credits
-1. @MarshalX [For TgCalls]
+1. @DARK_TELEGRAMER  [For TgCalls]
